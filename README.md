@@ -1,5 +1,5 @@
 # google-play-music-duplicates
-Find duplicates in google play music playlists
+Find duplicates and deleted songs in google play music playlists
 
 ## How to use
 1. If u want to detect deleted songs, paste this code on "All songs" (currenly bugged, because google shows different song names on "All songs" and playlist, but still can be useful).
